@@ -36,7 +36,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Docker--Compose-1488C6?style=flat-square&logo=Docker&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff"/>
+<!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff"/> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff"/>
 </div>
