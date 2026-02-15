@@ -7,7 +7,7 @@
 </br>
 -->
 
-👋 **Hey There! I'm Nayoung Kwak (nay0ng)**
+👋 **Hey There! I'm Nayoung Kwak**
 
 <p>도로 위험물 탐지 고도화 업무에서 <b>데이터–모델–추론</b>까지 end-to-end를 주도하며 서비스 성능 개선 경험을 쌓아왔습니다.</p>
 <p>현재는 CV에 더해 <b>NLP·RAG·Agent</b> 프로젝트에도 도전하며, 데이터 형태에 구애받지 않고 본질적인 문제를 해결하는 유연한 역량을 확장하고 있습니다. </p>
