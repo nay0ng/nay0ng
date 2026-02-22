@@ -8,10 +8,10 @@
 -->
 
 👋 **Hey There! I'm Nayoung Kwak**
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/a63c2317-176e-45b0-9819-09a0993bc6bd" width="220" />
-</div>
 
+<div align="left">
+<img src="https://github.com/user-attachments/assets/9e14aad4-fea2-4b12-a433-c4e05c20950b" width="220" />
+</div>
 <i><p>🛣️🔧 도로 위험물 탐지 고도화 업무를 통해 <b>데이터–모델–추론</b>까지 전 과정을 주도적으로 수행하며 서비스 성능 개선 경험을 쌓아왔고,</p></i>
 <i><p>🧠🌐 현재는 다양한 도메인의 지식을 쌓기 위해 CV 분야뿐만 아니라 <b>NLP 프로젝트에도 도전</b>하며, 데이터 형태에 구애받지 않고 본질적인 문제를 해결할 수 있는 유연한 역량을 갖춰가고 있습니다. ✨</p></i>
 
