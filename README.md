@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=fff"/>
   <img src="https://img.shields.io/badge/RAG-111111?style=flat-square&logo=semantic-scholar&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=fff"/>
+<!-- <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=fff"/> -->
+<!-- <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=fff"/> -->
 </div>
 
 <div align="center">
