@@ -83,6 +83,21 @@
 
 </br>
 
+🧩 **Problem Solving**
+<div align="left">
+
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=nayoung918)](https://solved.ac/nayoung918/)
+
+<!--
+[![Codeforces](https://img.shields.io/badge/Codeforces-nay0ng-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nay0ng)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nay0ng-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nay0ng/)
+-->
+
+</div>
+
+</br>
+
+
 ✍🏻 **Tech Blog**
 <div align="left">
   <a href="https://nyblue.tistory.com/" target="_blank">
